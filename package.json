@@ -1,0 +1,19 @@
+{
+  "name": "parent-repo",
+  "version": "1.0.0",
+  "description": "Parent repo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montacerdk/parent-repository.git"
+  },
+  "author": "Montacer Dkhilali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montacerdk/parent-repository/issues"
+  },
+  "homepage": "https://github.com/montacerdk/parent-repository#readme"
+}
